@@ -1,0 +1,2 @@
+before using it you have to run 'npm install' on both 'projeto1' and 'projeto2' and then to start the cli 'npm start'.
+para usar corretamente voce precisa rodar o comando 'npm install' na pasta 'projeto1' e na 'projeto2' após isso para rodar o cli é so usar o comando 'npm start'.
